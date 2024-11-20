@@ -29,5 +29,3 @@ You can extend this pipeline by adding:
 - Variational Autoencoders or GANs for graph tasks.
 
 ---
-
-Author: [Your Name]
